@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@300&family=Berkshire+Swash&family=Rubik+Storm&family=Special+Elite&display=swap');
+*{
+    margin: 0;padding: 0;
+}
+header{
+    background-color: rgb(255, 191, 0);
+    height: 15vh;
+}
+#title{
+    position: relative;
+    bottom: 15px;
+    font-size: 70px;
+    font-family: 'Berkshire Swash', cursive;
+}
+body{
+    background-color: black;
+}
+p{
+    color: crimson;
+    font-family: 'Aleo', serif;
+    font-size: 50px;
+    font-weight: 1000;
+}
+.card{
+    padding: 5px;
+    background-color: rgb(255, 191, 0);
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 100px;
+    left: 600px;
+    font-size: 30px;
+    font-family: 'Aleo', serif;
+    font-weight: 600;
+    border-radius: 30px;
+}
+.alarm{
+    position: relative;
+    top: 60px;
+}
+.inputs{
+    width: 70px;
+    height: 30px;
+    font-family: 'Aleo', serif;
+    font-weight: 600;
+
+}
+#set{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Aleo', serif;
+    font-weight: 600;
+
+}
